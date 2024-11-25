@@ -19,6 +19,14 @@ header {
 nav {
     display: flex;
     gap: 1rem;
+
+    a {
+        text-decoration: none;
+    }
+}
+
+.active {
+    text-decoration: underline;
 }
 
 main {
