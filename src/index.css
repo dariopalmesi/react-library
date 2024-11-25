@@ -27,10 +27,12 @@ nav {
 
 .active {
     text-decoration: underline;
+    color: white;
 }
 
 main {
     background-color: darkgreen;
+    min-height: 100vh;
 
     h1 {
         padding: 1rem;
@@ -39,4 +41,5 @@ main {
 
 footer {
     background-color: yellow;
+    padding: 1rem;
 }
