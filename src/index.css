@@ -33,6 +33,7 @@ nav {
 main {
     background-color: darkgreen;
     min-height: 100vh;
+    color: white;
 
     h1 {
         padding: 1rem;
